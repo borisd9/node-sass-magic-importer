@@ -20,7 +20,7 @@
     "url": "https://github.com/maoberlehner/node-sass-magic-importer/issues"
   },
   "dependencies": {
-    "node-sass-magic-importer": "^5.0.0-alpha.14"
+    "node-sass-magic-importer": "https://github.com/borisd9/node-sass-magic-importer"
   },
   "devDependencies": {
     "@types/node": "^8.0.31",
